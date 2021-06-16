@@ -21,8 +21,8 @@ export default function Footer() {
             defaultMessage="Powered by {name}"
             values={{
               name: (
-                <Link href="https://umami.is">
-                  <b>umami</b>
+                <Link href="https://stats.brocorp.re">
+                  <b>brostats</b>
                 </Link>
               ),
             }}
