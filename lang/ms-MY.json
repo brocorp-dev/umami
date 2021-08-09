@@ -67,7 +67,7 @@
   "message.go-to-settings": "Pergi ke tetapan",
   "message.incorrect-username-password": "Pengguna/kata laluan tidak betul.",
   "message.log.visitor": "Pelawat dari {country} mengguna {browser} pada {os} {device}",
-  "message.new-version-available": "Versi baru brostats {version} boleh didapati!",
+  "message.new-version-available": "Versi baru umami {version} boleh didapati!",
   "message.no-data-available": "Tiada data yang boleh didapati.",
   "message.no-websites-configured": "Anda tidak ada sebarang laman web yang telah dikonfigurasikan.",
   "message.page-not-found": "Halaman tidak dijumpai.",

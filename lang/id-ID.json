@@ -66,7 +66,7 @@
   "message.go-to-settings": "Pergi ke pengaturan",
   "message.incorrect-username-password": "Nama pengguna/kata sandi salah.",
   "message.log.visitor": "Pengunjung dari {country} dengan {browser} di {device} {os}",
-  "message.new-version-available": "Versi terbaru brostats {version} telah tersedia!",
+  "message.new-version-available": "Versi terbaru umami {version} telah tersedia!",
   "message.no-data-available": "Tidak ada data.",
   "message.no-websites-configured": "Anda tidak memiliki situs web yang dikonfigurasi.",
   "message.page-not-found": "Halaman tidak ditemukan.",

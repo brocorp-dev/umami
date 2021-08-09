@@ -67,7 +67,7 @@
   "message.go-to-settings": "Tovább a beállításokhoz",
   "message.incorrect-username-password": "Érvénytelen felhasználónév/jelszó.",
   "message.log.visitor": "Látógató {country} területéről, {os} {device} eszközön, {browser} böngészőből.",
-  "message.new-version-available": "Elérhető az brostats {version} új verziója!",
+  "message.new-version-available": "Elérhető az umami {version} új verziója!",
   "message.no-data-available": "Nincs rendelkezésre álló adat.",
   "message.no-websites-configured": "Még nem állítottál be egyetlen weboldalt sem.",
   "message.page-not-found": "Oldal nem található.",

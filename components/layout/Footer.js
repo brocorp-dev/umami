@@ -18,11 +18,11 @@ export default function Footer() {
         <div className="col-12 col-md-4">
           <FormattedMessage
             id="message.powered-by"
-            defaultMessage="by {name}"
+            defaultMessage="Powered by {name}"
             values={{
               name: (
-                <Link href="https://brocorp.re">
-                  <b>brocorp</b>
+                <Link href="https://umami.is">
+                  <b>umami</b>
                 </Link>
               ),
             }}

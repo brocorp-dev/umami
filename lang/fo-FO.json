@@ -66,7 +66,7 @@
   "message.go-to-settings": "Far til stillingar",
   "message.incorrect-username-password": "Skeivt brúkaranavn/loyniorð.",
   "message.log.visitor": "Vitjandi frá {country} brúkar {browser} á {os} {device}",
-  "message.new-version-available": "Ein nýggj útgava av brostats {version} er tøkt!",
+  "message.new-version-available": "Ein nýggj útgava av umami {version} er tøkt!",
   "message.no-data-available": "Einki data tøk.",
   "message.no-websites-configured": "Tú hevur ongar heimasíður stillaða til.",
   "message.page-not-found": "Síðan bleiv ikki funnin.",

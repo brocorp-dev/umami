@@ -67,7 +67,7 @@
   "message.go-to-settings": "Ir a la configuración",
   "message.incorrect-username-password": "Nombre de usuario o contraseña incorrectos.",
   "message.log.visitor": "Visitante desde {country} usando {browser} en {os} {device}",
-  "message.new-version-available": "Una nueva versíon de brostats {version} esta disponible!",
+  "message.new-version-available": "Una nueva versíon de umami {version} esta disponible!",
   "message.no-data-available": "Sin información disponible.",
   "message.no-websites-configured": "No tienes ningún sitio configurado.",
   "message.page-not-found": "Page not found",

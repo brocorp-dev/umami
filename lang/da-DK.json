@@ -66,7 +66,7 @@
   "message.go-to-settings": "Gå til betjeningspanel",
   "message.incorrect-username-password": "Ugyldigt brugernavn/adgangskode.",
   "message.log.visitor": "Besøgende fra {country} bruger {browser} på {os} {device}",
-  "message.new-version-available": "Ny udgave af brostats {version} er tilgængelig!",
+  "message.new-version-available": "Ny udgave af Umami {version} er tilgængelig!",
   "message.no-data-available": "Ingen data tilgængelig.",
   "message.no-websites-configured": "Du har ikke konfigureret nogen websteder.",
   "message.page-not-found": "Side ikke fundet.",

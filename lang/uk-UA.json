@@ -67,7 +67,7 @@
   "message.go-to-settings": "Перейти до налаштувань",
   "message.incorrect-username-password": "Невірне ім'я користувача або пароль.",
   "message.log.visitor": "Відвідувач з {country} використовуючи {browser} на {os} {device}",
-  "message.new-version-available": "Нова версія brostats {version} доступна!",
+  "message.new-version-available": "Нова версія umami {version} доступна!",
   "message.no-data-available": "Немає даних.",
   "message.no-websites-configured": "У вас немає налаштованих сайтів.",
   "message.page-not-found": "Сторінку не знайдено.",

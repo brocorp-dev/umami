@@ -66,7 +66,7 @@
   "message.go-to-settings": "Gå till inställningar",
   "message.incorrect-username-password": "Felaktikt användarnamn/lösenord.",
   "message.log.visitor": "Besökare från {country} med {browser} på {os} {device}",
-  "message.new-version-available": "En ny version av brostats {version} är tillgänglig!",
+  "message.new-version-available": "En ny version av umami {version} är tillgänglig!",
   "message.no-data-available": "Ingen data tillgänglig.",
   "message.no-websites-configured": "Du har inga webbsajter.",
   "message.page-not-found": "Sidan kan inte hittas.",

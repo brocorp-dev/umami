@@ -12,7 +12,7 @@ export default function Layout({ title, children, header = true, footer = true }
   return (
     <>
       <Head>
-        <title>stats.brocorp.re{title && ` - ${title}`}</title>
+        <title>umami{title && ` - ${title}`}</title>
       </Head>
 
       {header && <Header />}
