@@ -67,7 +67,7 @@
   "message.go-to-settings": "Vés a la configuració",
   "message.incorrect-username-password": "Nom d'usuari o contrasenya incorrectes.",
   "message.log.visitor": "Visitant de {country} usant {browser} a {os} {device}",
-  "message.new-version-available": "Hi ha disponible una nova versió d'umami {version}!",
+  "message.new-version-available": "Hi ha disponible una nova versió d'brostats {version}!",
   "message.no-data-available": "No hi ha dades disponibles.",
   "message.no-websites-configured": "No hi ha cap lloc web configurat.",
   "message.page-not-found": "No s'ha trobat la pàgina.",

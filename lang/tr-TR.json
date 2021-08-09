@@ -66,7 +66,7 @@
   "message.go-to-settings": "Ayarlara git",
   "message.incorrect-username-password": "Hatalı kullanıcı adı ya da parola.",
   "message.log.visitor": "Yeni ziyaretçi: {country}, {os}, {device}, {browser}",
-  "message.new-version-available": "umami'nin yeni bir versiyonu ({version}) mevcut!",
+  "message.new-version-available": "brostats'nin yeni bir versiyonu ({version}) mevcut!",
   "message.no-data-available": "Henüz hiç veri yok.",
   "message.no-websites-configured": "Henüz hiç web sitesi tanımlamadınız",
   "message.page-not-found": "Sayfa bulunamadı.",

@@ -19,7 +19,7 @@ import Bars from 'assets/bars.svg';
 export default function Header() {
   const user = useSelector(state => state.user);
   const [active, setActive] = useState(false);
-  const [locale] = useLocale();
+  const { locale } = useLocale();
 
   function handleClick() {
     setActive(state => !state);
@@ -33,7 +33,7 @@ export default function Header() {
           <div className="">
             <div className={styles.title}>
               <Icon icon={<Logo />} size="large" className={styles.logo} />
-              <Link href={user ? '/' : 'https://stats.brocorp.re'}>brostats</Link>
+              <Link href={user ? '/' : 'https://stats.brocorp.re'}>stats.brocorp.re</Link>
             </div>
           </div>
           <Button

@@ -67,7 +67,7 @@
   "message.go-to-settings": "الذهاب إلى الإعدادات",
   "message.incorrect-username-password": "اسم المستخدم او كلمة المرور غير صحيحة.",
   "message.log.visitor": "زائر من {country} يستخدم {browser} على {os} {device}",
-  "message.new-version-available": "توجد نسخة جديدة من umami رقم {version} سارع بالتحديث!",
+  "message.new-version-available": "توجد نسخة جديدة من brostats رقم {version} سارع بالتحديث!",
   "message.no-data-available": "لا توجد بيانات متاحة.",
   "message.no-websites-configured": "لم تقم بإعداد اي موقع.",
   "message.page-not-found": "الصفحة غير موجودة.",

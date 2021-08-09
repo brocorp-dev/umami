@@ -67,7 +67,7 @@
   "message.go-to-settings": "رفتن به تنظیمات",
   "message.incorrect-username-password": "نام کاربری / رمز نادرست است.",
   "message.log.visitor": "بازدیدکننده از کشور {country} با مروگر {browser} در {os} {device}",
-  "message.new-version-available": "نسخه‌ی جدید umami ({version}) موجود است!",
+  "message.new-version-available": "نسخه‌ی جدید brostats ({version}) موجود است!",
   "message.no-data-available": "اطلاعاتی موجود نیست.",
   "message.no-websites-configured": "شما هیچ وب‌سایتی را پیکربندی نکرده‌اید.",
   "message.page-not-found": "صفحه یافت نشد.",

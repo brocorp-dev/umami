@@ -66,7 +66,7 @@
   "message.go-to-settings": "להדרותג",
   "message.incorrect-username-password": "שם משתמש או סיסמה לא נכונים",
   "message.log.visitor": "מבקר ממדינת {country} משתמבש בדפדפן {browser} ב-{os} {device}",
-  "message.new-version-available": "גרסה חדשה של Umami {version} זמינה!",
+  "message.new-version-available": "גרסה חדשה של brostats {version} זמינה!",
   "message.no-data-available": "אין מידע זמין",
   "message.no-websites-configured": "לא מוגדרים אתרים",
   "message.page-not-found": "דף לא נמצא",

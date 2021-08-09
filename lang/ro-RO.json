@@ -66,7 +66,7 @@
   "message.go-to-settings": "Mergi la Setări",
   "message.incorrect-username-password": "Username/parolă incorecte.",
   "message.log.visitor": "Visitor from {country} using {browser} on {os} {device}",
-  "message.new-version-available": "Este disponibilă o nouă versiune {version} de umami!",
+  "message.new-version-available": "Este disponibilă o nouă versiune {version} de brostats!",
   "message.no-data-available": "Nicio informație disponibilă.",
   "message.no-websites-configured": "Nu aveți niciun site web configurat.",
   "message.page-not-found": "Pagina nu a fost găsită.",

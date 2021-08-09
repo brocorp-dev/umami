@@ -66,7 +66,7 @@
   "message.go-to-settings": "Ísť do nastavení",
   "message.incorrect-username-password": "Nesprávné meno/heslo.",
   "message.log.visitor": "Návštevník z {country} s prehliadačom {browser} na {os} {device}",
-  "message.new-version-available": "Nová verzia umami {version} je k dispozícii!",
+  "message.new-version-available": "Nová verzia brostats {version} je k dispozícii!",
   "message.no-data-available": "Žiadne data.",
   "message.no-websites-configured": "Nemáte nastavený žiadny web.",
   "message.page-not-found": "Stránka sa nenašla.",

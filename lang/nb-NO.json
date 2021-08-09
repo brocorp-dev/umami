@@ -66,7 +66,7 @@
   "message.go-to-settings": "Gå til innstillinger",
   "message.incorrect-username-password": "Ugyldig brukernavn/passord.",
   "message.log.visitor": "Besøkende fra {country} med {browser} på {os} {device}",
-  "message.new-version-available": "En ny versjon av umami {version} er tilgjengelig!",
+  "message.new-version-available": "En ny versjon av brostats {version} er tilgjengelig!",
   "message.no-data-available": "Ingen data tilgjengelig.",
   "message.no-websites-configured": "Du har ikke satt opp noen nettsteder.",
   "message.page-not-found": "Side ikke funnet.",

@@ -9,7 +9,7 @@ import { rtlLocales } from 'lib/lang';
 
 export default function Footer() {
   const { current } = useVersion();
-  const [locale] = useLocale();
+  const { locale } = useLocale();
 
   return (
     <footer className="container" dir={rtlLocales.includes(locale) ? 'rtl' : 'ltr'}>
@@ -18,11 +18,11 @@ export default function Footer() {
         <div className="col-12 col-md-4">
           <FormattedMessage
             id="message.powered-by"
-            defaultMessage="Powered by {name}"
+            defaultMessage="by {name}"
             values={{
               name: (
-                <Link href="https://stats.brocorp.re">
-                  <b>brostats</b>
+                <Link href="https://brocorp.re">
+                  <b>brocorp</b>
                 </Link>
               ),
             }}
