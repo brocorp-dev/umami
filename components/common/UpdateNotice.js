@@ -30,7 +30,7 @@ export default function UpdateNotice() {
       <div className={styles.message}>
         <FormattedMessage
           id="message.new-version-available"
-          defaultMessage="A new version of brostats {version} is available!"
+          defaultMessage="A new version of umami {version} is available!"
           values={{ version: `v${latest}` }}
         />
       </div>
