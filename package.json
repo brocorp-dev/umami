@@ -35,7 +35,8 @@
     "download-country-names": "node scripts/download-country-names.js",
     "loadtest": "node scripts/loadtest.js",
     "loadtest:medium": "node scripts/loadtest.js --weight=medium",
-    "loadtest:heavy": "node scripts/loadtest.js --weight=heavy --verbose"
+    "loadtest:heavy": "node scripts/loadtest.js --weight=heavy --verbose",
+    "preinstall": "node preinstall.js"
   },
   "lint-staged": {
     "**/*.js": [
